@@ -5,5 +5,7 @@ let counter = 0
 while(counter <5){
     console.log(lower_user_name)
     console.log(lower_user_name.include("winner"))
+    console.log("we have a winner!!!")
     counter=counter+1
+
 }
